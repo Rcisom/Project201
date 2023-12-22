@@ -1,0 +1,85 @@
+.Sidepanel {
+    left: 5px;
+    width: 10%;
+    top: 5px;
+    bottom: 5px;
+    background-color: gray;
+    position: absolute;
+}
+.mainpanel {
+    right: 5px;
+    width: 89%;
+    top: 5px;
+    background-color: bisque;
+    position: absolute;
+    padding-left: 10px;
+}
+.Rightpanel {
+    right: 5px;
+    bottom: 5px;
+    height: 25%;
+    left: 75%;
+    background-color: aliceblue;
+    position: absolute;
+}
+.pagelinks {
+    right: 5px;
+    left: 75%;
+    top: 5px;
+    height: 3%;
+    position: absolute;
+    background-color: gray;
+    float: right;
+}
+.Educationattribute {
+    position: absolute;
+    left: 5px;
+    top: 45%;
+    text-align: center;
+    font-size: 70%;
+}
+.Experienceattribute {
+    position: absolute;
+    left: 5px;
+    top: 50%;
+    text-align: center;
+    font-size: 70%;
+}
+.Skillsattribute {
+    position: absolute;
+    left: 5px;
+    top: 55%;
+    text-align: center;
+    font-size: 70%;
+}
+.picturelocation {
+    position:absolute ;
+    top: 10px;
+    right: 5px;
+    width:97%;
+    height: 25%
+}
+
+.Largetext {
+    font-size: 20px;
+}
+
+body {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li {
+    padding-left: 10px;
+}
+a {
+    color: green;
+}
+.listeditems {
+    font-size: 35px;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(40, 38, 38, 0.514)
+}
+.orderedtitle {
+    color: rgb(142, 49, 49);
+}

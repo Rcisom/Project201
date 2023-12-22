@@ -1,0 +1,17 @@
+.backgroundcolor {
+    background-color: rgba(199, 240, 227, 0.856);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    z-index: 0;
+}
+.pagelinks {
+    top: 5px;
+    right: 5px;
+    font-size: 25px;
+    text-align: right;
+    background-color: rgba(199, 240, 227, 0.856);
+    border-width: 5px;
+    border-style: solid;
+    z-index: 1;
+}
